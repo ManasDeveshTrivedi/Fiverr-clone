@@ -190,3 +190,9 @@ header .navbar {
   .navbar :is(#close-menu-btn, #hamburger-btn) {
     display: block;
   }
+  .hero-section {
+    background: none;
+  }
+  .hero-section .content {
+    margin: 0 auto 80px;
+  }

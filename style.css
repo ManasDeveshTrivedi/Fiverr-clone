@@ -217,4 +217,7 @@ header .navbar {
     border-radius: 4px;
     width: 100%;
   }
- 
+  .hero-section .popular-tags {
+    display: none;
+  }
+}

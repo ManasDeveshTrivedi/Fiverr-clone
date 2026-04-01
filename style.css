@@ -84,3 +84,12 @@ header .navbar {
   max-width: 630px;
   margin-top: 30px;
 }
+.hero-section .search-form input {
+  height: 100%;
+  width: 100%;
+  border: none;
+  outline: none;
+  padding: 0 15px;
+  font-size: 1rem;
+  border-radius: 4px 0 0 4px;
+}

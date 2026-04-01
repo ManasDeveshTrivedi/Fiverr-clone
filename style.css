@@ -104,3 +104,14 @@ header .navbar {
   border-radius: 0 4px 4px 0;
   transition: background 0.2s ease;
 }
+.hero-section .search-form button:hover {
+  background: #19a463;
+}
+.hero-section .popular-tags {
+  display: flex;
+  color: #fff;
+  gap: 25px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  margin-top: 25px;
+}

@@ -196,3 +196,6 @@ header .navbar {
   .hero-section .content {
     margin: 0 auto 80px;
   }
+  .hero-section .content :is(h1, .search-form) {
+    max-width: 100%;
+  }

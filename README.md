@@ -1,4 +1,4 @@
-﻿# Fiverr-clone
+﻿# Fiverr clone
 A simple front-end clone of Fiverr homepage built using HTML, CSS, & JavaScript
 
 ---
